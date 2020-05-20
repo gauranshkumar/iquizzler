@@ -17,8 +17,8 @@ Steps to build:
 1. Clone the repo `git clone https://github.com/gauranshkumar/iquizzler.git`.
 2. Open the github project in either **Android Studio** or **VSCode**.
 3. Open the terminal and type `flutter pub get` to download all the dependencies.
-4. Now type `flutter run -d <deviceName>` instead of <deviceName> put the name of your device attached to run the app.
-5. If you want to build the app then type `flutter build <type>` and instead of <type> put the type of build eg. `apk` or `web`.
+4. Now type `flutter run -d <deviceName>` instead of `<deviceName>` put the name of your device attached to run the app.
+5. If you want to build the app then type `flutter build <type>` and instead of `<type>` put the type of build eg. `apk` or `web`.
     > To build for Web you must enable Web support to know more go to [Flutter for Web](https://flutter.dev/docs/get-started/web).
 
 ## Getting Started With Flutter
